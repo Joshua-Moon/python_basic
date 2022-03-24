@@ -5,7 +5,7 @@ print("len(students)", len(students))
 print("min(grades)", min(grades))
 print("min(grades)", max(grades))
 print("sum(grades)", sum(grades))
- 
+
 import statistics
 print("statistics.mean(grades)", statistics.mean(grades))
  
